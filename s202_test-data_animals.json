@@ -28,5 +28,11 @@
     "scientificName": "Macropus rufus",
     "habitat": "Australian deserts and open grasslands",
     "description": "The largest marsupial, using powerful hind legs for hopping and a strong tail for balance."
+  },
+  {
+    "commonName": "Capybara",
+    "scientificName": "Hydrochoerus hydrochaeris",
+    "habitat": "Savannas and dense forests, near bodies of water",
+    "description": "The largest living rodent. It's a semi-aquatic and highly social animal with brown fur."
   }
 ]
