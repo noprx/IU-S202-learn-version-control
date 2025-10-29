@@ -34,5 +34,11 @@
     "scientificName": "Hydrochoerus hydrochaeris",
     "habitat": "Savannas and dense forests, near bodies of water",
     "description": "The largest living rodent. It's a semi-aquatic and highly social animal with brown fur."
+  },
+  {
+    "commonName": "Black Spot Piranha",
+    "scientificName": "Pygocentrus cariba",
+    "habitat": "Bodies of freshwater in certain parts of Venezuela and Columbia",
+    "description": "A carnivorous fish with black spots and a serrated abdomen. They reach about 11 inches in length."
   }
 ]
